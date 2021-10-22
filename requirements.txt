@@ -29,7 +29,6 @@ idna==2.8
 importlib-metadata==1.5.0
 keyring==18.0.1
 kiwisolver==1.0.1
-language-selector==0.1
 launchpadlib==1.10.13
 lazr.restfulclient==0.14.2
 lazr.uri==1.0.3
