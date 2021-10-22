@@ -14,7 +14,6 @@ cryptography==2.8
 cycler==0.10.0
 dbus-python==1.2.16
 decorator==4.4.2
-defer==1.0.6
 distlib==0.3.3
 distro==1.4.0
 distro-info==0.23ubuntu1
