@@ -70,7 +70,7 @@ pyparsing==2.4.6
 pyRFC3339==1.1
 pyspark==3.1.2
 pytest==4.6.9
-python-apt==2.0.0+ubuntu0.20.4.4
+python-apt==2.0.0+ubuntu0.20.04.0
 python-dateutil==2.7.3
 python-debian==0.1.36ubuntu1
 python-magic==0.4.16
