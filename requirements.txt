@@ -85,7 +85,6 @@ simplejson==3.16.0
 six==1.14.0
 soupsieve==1.9.5
 structlog==21.1.0
-systemd-python==234
 tables==3.6.1
 trino==0.305.0
 ubuntu-advantage-tools==20.3
