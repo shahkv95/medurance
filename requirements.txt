@@ -87,7 +87,6 @@ soupsieve==1.9.5
 structlog==21.1.0
 tables==3.6.1
 trino==0.305.0
-unattended-upgrades==0.1
 urllib3==1.25.8
 usb-creator==0.3.7
 virtualenv==20.8.1
