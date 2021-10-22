@@ -71,7 +71,6 @@ pyRFC3339==1.1
 pyspark==3.1.2
 pytest==4.6.9
 python-dateutil==2.7.3
-python-debian==0.1.36ubuntu1
 python-magic==0.4.16
 pytz==2019.3
 pyxdg==0.26
