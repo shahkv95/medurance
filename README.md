@@ -1,4 +1,4 @@
-<img src="https://github.com/shahkv95/healthurance-prems/blob/main/imgs/01-healthurance.gif">
+<img src="https://github.com/shahkv95/healthurance-prems/blob/main/imgs/01-medurance.gif">
 
 <hr>
 
